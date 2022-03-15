@@ -1,1 +1,2 @@
-Change 1 on the master branch
+Change 1 on myBranch
+Change 2 on myBranch
